@@ -7,8 +7,8 @@ import PostSummaryItem
     from "./post-summary-list/post-summary-item";
 import ExploreComponent from "./explore";
 import {Routes, Route} from "react-router";
-import HomeComponent from "./home/HomeScreen";
-import PostList from "./home/PostList/PostList";
+import HomeComponent from "./home/HomeScreen.js";
+import PostList from "./home/PostList/PostList.js";
 
 
 function Tuiter() {

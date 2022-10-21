@@ -1,5 +1,5 @@
 import posts from "./posts.json";
-import PostItem from "./PostItem";
+import PostItem from "./PostItem.js";
 
 const PostList = () => {
     return (

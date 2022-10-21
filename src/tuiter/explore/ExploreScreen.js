@@ -1,9 +1,9 @@
 import React from "react";
 import './index.css';
-import NavigationSidebar from "../NavigationSidebar/index";
-import WhoToFollowList from "../who-to-follow-list/index";
-import ExploreComponent from "./index";
-import A6 from "../../labs/a6/A6";
+import NavigationSidebar from "../NavigationSidebar/index.js";
+import WhoToFollowList from "../who-to-follow-list/index.js";
+import ExploreComponent from "./index.js";
+import A6 from "../../labs/a6/A6.js";
 
 // const active = window.location.pathname;
 

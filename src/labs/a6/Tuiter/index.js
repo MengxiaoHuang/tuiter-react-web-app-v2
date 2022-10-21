@@ -1,9 +1,9 @@
 import React from "react";
 import {Link} from "react-router-dom";
-import ExploreScreen from "./ExploreScreen/ExploreScreen";
+import ExploreScreen from "./ExploreScreen/ExploreScreen.js";
 import {Route} from "react-router-dom";
-import HomeScreen from "./HomeScreen/HomeScreen";
-import HelloWorld from "../HelloWorld";
+import HomeScreen from "./HomeScreen/HomeScreen.js";
+import HelloWorld from "../HelloWorld.js";
 
 
 

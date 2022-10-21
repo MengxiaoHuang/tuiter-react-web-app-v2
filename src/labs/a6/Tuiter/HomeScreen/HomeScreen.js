@@ -1,8 +1,8 @@
-import NavigationSidebar from "../NavigationSidebar/index";
-import PostList from "./PostList/PostList";
-import PostSummaryList from "../PostSummaryList/index";
+import NavigationSidebar from "../NavigationSidebar/index.js";
+import PostList from "./PostList/PostList.js";
+import PostSummaryList from "../PostSummaryList/index.js";
 import '../ExploreScreen/explore.css';
-import A6 from "../../A6";
+import A6 from "../../A6.js";
 
 
 
